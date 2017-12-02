@@ -1,3 +1,5 @@
+https://adventofcode.com/2017/day/2
+
 --- Part Two ---
 
 "Great work; looks like we're on the right track after all. Here's a star for your effort." However, the program seems a little worried. Can programs be worried?
@@ -8,16 +10,18 @@ It sounds like the goal is to find the only two numbers in each row where one ev
 
 For example, given the following spreadsheet:
 
-5 9 2 8
-9 4 7 3
-3 8 6 5
+`5 9 2 8`
 
-* In the first row, the only two numbers that evenly divide are 8 and 2; the result of this division is 4.
+`9 4 7 3`
 
-* In the second row, the two numbers are 9 and 3; the result is 3.
+`3 8 6 5`
 
-* In the third row, the result is 2.
+* In the first row, the only two numbers that evenly divide are `8` and `2`; the result of this division is `4`.
 
-* In this example, the sum of the results would be 4 + 3 + 2 = 9.
+* In the second row, the two numbers are `9` and `3`; the result is `3`.
+
+* In the third row, the result is `2`.
+
+* In this example, the sum of the results would be `4 + 3 + 2 = 9`.
 
 What is the sum of each row's result in your puzzle input?
